@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁 Prazer, sou Felipe Serejo Monteiro!
+## Prazer, sou Felipe Serejo Monteiro! Bem-vindo(a) ao meu perfil 😁 
 
  <div>
    <a href="https://github.com/lipe-s-m">
