@@ -34,5 +34,7 @@
       <img width="27" src="https://i.ibb.co/RhN90Cf/discord-logo-7-1.png">
     
 </div>
-  
-![Snake animation](https://github.com/lipe-s-m/lipe-s-m/blob/output/github-contribution-grid-snake.svg)
+<hr>
+
+
+![snake gif](https://github.com/lipe-s-m/lipe-s-m/blob/output/github-contribution-grid-snake.svg)
