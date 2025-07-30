@@ -4,9 +4,9 @@
 
 ###
 
-<p align="left">Estudante de Ciência da Computação na UFRRJ e desenvolvedor apaixonado por criar soluções tecnológicas com impacto real. Minha motivação é usar a programação para resolver problemas complexos e melhorar a vida das pessoas.<br><br>Atualmente, faço parte do programa Jovens Cientistas Cariocas (JCC), uma iniciativa da Prefeitura do Rio de Janeiro, na qual fui um dos 91 selecionados entre mais de 700 candidatos. No programa, estou desenvolvendo a AprendaNave, uma plataforma web de educação gamificada com foco em impacto social.<br><br>Também tenho experiência prática no desenvolvimento de projetos do zero, como o FilaRU, um sistema web criado para otimizar o acesso ao restaurante universitário da UFRRJ. O projeto, reconhecido pela administração da universidade, me permitiu aprofundar em tecnologias como React, Node.js e MySQL, além de desenvolver habilidades em gestão de demandas reais e diálogo institucional.<br><br>Além da minha experiência com desenvolvimento de software, atuei como Jovem Aprendiz na BAT (antiga Souza Cruz), onde trabalhei em um ambiente corporativo e desenvolvi automações com Excel e VBA, otimizando a criação de relatórios no setor de merchandising.</p>
+<p align="left">Estudante de Ciência da Computação na UFRRJ e desenvolvedor apaixonado por criar soluções tecnológicas com impacto real. Minha motivação é usar a programação para resolver problemas complexos e melhorar a vida das pessoas.<br><br>Atualmente, faço parte do programa Jovens Cientistas Cariocas (JCC), uma iniciativa da Prefeitura do Rio de Janeiro, na qual fui um dos 91 selecionados entre mais de 700 candidatos. No programa, estou desenvolvendo a AprendaNave, uma plataforma web de educação gamificada com foco em impacto social.<br><br>Também tenho experiência prática no desenvolvimento de projetos do zero, como o FilaRU, um sistema web criado para otimizar o acesso ao restaurante universitário da UFRRJ. O projeto, reconhecido pela administração da universidade, me permitiu aprofundar em tecnologias como React, Node.js e MySQL, além de desenvolver habilidades em gestão de demandas reais e diálogo institucional.</p>
 
-###
+---
 
 <h2 align="left">Habilidades</h2>
 
@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-###
+---
 
 <h2 align="left">Estatísticas</h2>
 
@@ -57,7 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lipe-s-m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
-###
+---
 
 <h2 align="left">Contatos</h2>
 
