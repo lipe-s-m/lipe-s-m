@@ -108,7 +108,7 @@
 <br>![lipe-s-m GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lipe-s-m&show_icons=true&theme=gruvbox) ![lipe-s-m GitHub stats](https://github-readme-stats.vercel.app/api?username=lipe-s-m&show_icons=true&theme=gruvbox) 
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+	<img src="https://raw.githubusercontent.com/lipe-s-m/lipe-s-m/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
