@@ -20,7 +20,7 @@
   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-serejo-monteiro/)
-[![Gmail](https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&label=&color=D14836&logoColor=white)](https://www.instagram.com/toquinhaman/)
+[![Gmail](https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&label=&color=D14836&logoColor=white)](mailto:felipe.s.m1609@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipe.s.m/)
 
 
