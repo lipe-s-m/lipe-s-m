@@ -15,12 +15,16 @@ jobs:
       # Faz o checkout do repositório
       - uses: actions/checkout@v3
 
+      # Cria a pasta 'dist' para garantir que ela exista
+      - name: Create dist directory
+        run: mkdir -p dist
+
       # Gera a animação da cobra
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Gera o arquivo SVG com o nome 'snake.svg'
+          # Gera o arquivo SVG com o nome 'snake.svg' dentro da pasta dist
           svg_out_path: dist/snake.svg
 
       # Envia os arquivos gerados para a branch 'output'
