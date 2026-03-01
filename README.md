@@ -5,7 +5,7 @@
 
 * Sou estudante de Ciência da Computação na **UFRRJ**.
 * Sou um Desenvolvedor Web com foco em **Angular e .NET**.
-* Apaixonado por criar soluções que resolvem problemas reais.
+* Participante do programa Jovens Cientistas Cariocas.
 
 
 <details>
